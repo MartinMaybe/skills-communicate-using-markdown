@@ -13,4 +13,6 @@ System.out.println("Hello World!");
 ###### H6 Header
 last header
 
-
+- [ ] Complete Course 1
+- [ ] Complete Course 2
+- [ ] Complete Course 3
